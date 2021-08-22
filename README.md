@@ -7,6 +7,7 @@ I'm Laylo from Uzbekistan, and I am currently student at Microverse. I keen on l
 - ⚡ Fun fact: I have to kittens which are always with me while I am working or learning!
 
 ![Laylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laylo309&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laylo309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
