@@ -5,12 +5,9 @@ I'm Laylo from Uzbekistan, and I am currently student at Microverse. I keen on l
 - 💬 Ask me about **Anything** 
 - 😄 Pronouns:**She**
 - ⚡ Fun fact: I have to kittens which are always with me while I am working or learning!
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
+
+![Laylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laylo309&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laylo309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
