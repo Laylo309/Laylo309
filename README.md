@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Laylo from Uzbekistan, and I am currently student at Microverse. I keen on learning languages and frameworks like React and Redux(will learn), as well as I work in Node.js.
-
+I'm Laylo from Uzbekistan, and I am currently a student at Microverse. I am keen on learning languages and frameworks like React and Redux(will learn), as well as I, work in Node.js.
 - 💬 Ask me about **Anything** 
 - 😄 Pronouns:**She**
 - ⚡ Fun fact: I have to kittens which are always with me while I am working or learning!
